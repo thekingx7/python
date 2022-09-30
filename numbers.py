@@ -75,6 +75,6 @@ def welcome():
     else:
         print(f"{Fore.LIGHTRED_EX} ## ERROR Call TheKing ##{Style.RESET_ALL}")
         welcome()
-        welcome()
+        
              
 welcome()
